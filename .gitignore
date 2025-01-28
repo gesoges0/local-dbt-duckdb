@@ -1,3 +1,10 @@
+.user.yml
+dbt.duckdb
+duckdb
+duckdb_cli-linux-amd64.zip
+hello.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

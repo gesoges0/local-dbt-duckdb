@@ -1,0 +1,6 @@
+local_dbt_duckdb:
+  outputs:
+   dev:
+     type: duckdb
+     path: /home/gesogeso/ghq/github.com/gesoges0/local-dbt-duckdb/dbt.duckdb
+  target: dev
